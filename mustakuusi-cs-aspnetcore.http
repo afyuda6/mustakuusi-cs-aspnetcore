@@ -1,0 +1,6 @@
+@mustakuusi_cs_aspnetcore_HostAddress = http://localhost:5136
+
+GET {{mustakuusi_cs_aspnetcore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
